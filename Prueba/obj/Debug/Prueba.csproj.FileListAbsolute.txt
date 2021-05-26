@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\Prueba\Prueba\bin\Debug\Prueba.exe.config
+C:\Users\DELL\source\repos\Prueba\Prueba\bin\Debug\Prueba.exe
+C:\Users\DELL\source\repos\Prueba\Prueba\bin\Debug\Prueba.pdb
+C:\Users\DELL\source\repos\Prueba\Prueba\obj\Debug\Prueba.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Prueba\Prueba\obj\Debug\Prueba.Form1.resources
+C:\Users\DELL\source\repos\Prueba\Prueba\obj\Debug\Prueba.Properties.Resources.resources
+C:\Users\DELL\source\repos\Prueba\Prueba\obj\Debug\Prueba.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Prueba\Prueba\obj\Debug\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Prueba\Prueba\obj\Debug\Prueba.exe
+C:\Users\DELL\source\repos\Prueba\Prueba\obj\Debug\Prueba.pdb
+C:\Users\DELL\source\repos\Prueba\Prueba\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\source\repos\Prueba\Prueba\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\source\repos\Prueba\Prueba\obj\Debug\Prueba.csproj.CopyComplete
+C:\Users\DELL\source\repos\Prueba\Prueba\obj\Debug\Prueba.Add.resources
+C:\Users\DELL\source\repos\Prueba\Prueba\obj\Debug\Prueba.Visual.resources
